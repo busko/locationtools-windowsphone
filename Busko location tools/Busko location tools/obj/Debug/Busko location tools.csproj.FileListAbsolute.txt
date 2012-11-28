@@ -1,0 +1,18 @@
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Busko location tools.dll
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Busko location tools.pdb
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\AppManifest.xaml
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\Bin\Debug\Busko_location_tools_Debug_AnyCPU.xap
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\App.g.cs
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\MainPage.g.cs
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\Busko location tools.g.resources
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\Busko_location_tools.Resources.AppResources.resources
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\Busko location tools.csproj.GenerateResource.Cache
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\Busko location tools.dll
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\Busko location tools.pdb
+C:\Users\Warwick\Desktop\Busko location tools\Busko location tools\obj\Debug\XapCacheFile.xml
